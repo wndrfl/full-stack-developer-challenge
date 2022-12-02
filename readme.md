@@ -29,11 +29,11 @@ https://www.figma.com/file/hy7RREINVen0wRTmHwqP4o/Wonderful-Full-Stack-Engineer-
 
 ## You will be graded on:
 - **Business Logic**: The resilience, strategy, and organization of your business logic
-- **JavaScript**: the elegance, efficiency, and performance of any JavaScript
+- **JavaScript**: Your attention to elegance, efficiency, and performance
 - **HTML**: Your understanding of best HTML practices
 - **Creativity**: Your creative intuition as to how to "fill in the gaps" that are missing within the design
 - **Execution**: Your development speed, compared to the quality of the delivered product
 - **Organization**: How easy it would be for another developer to hop into the project and work with you
-- **Knowledge**: our understanding of the quality of your development process
+- **Knowledge**: Our understanding of the quality of your development process
 
 ✨ Thanks! Good luck!
